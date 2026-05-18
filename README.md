@@ -23,7 +23,7 @@
 Here is a preview of our state-of-the-art cyberpunk dark-mode GUI dashboard:
 
 <div align="center">
-  <img src="dashboard/image.png" alt="AquaSync Dashboard Interface" width="85%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" />
+  <img src="💧 AquaSync/dashboard/image.png" alt="AquaSync Dashboard Interface" width="85%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" />
   <p><i>Figure 1: AquaSync desktop telemetry interface showing real-time water wave canvas, digital indicator LED statuses, and automatic event logging.</i></p>
 </div>
 
